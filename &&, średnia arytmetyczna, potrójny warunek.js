@@ -21,8 +21,8 @@ function areAscendingSequence(a, b, c) {
 
 
 
-function average(a, b) {
-    return (a + b) / 2;
+function average(a, c) {
+    return (a + c) / 2;
 }
 
 function checkNumbers(a, b, c) {
