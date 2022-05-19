@@ -1,3 +1,7 @@
+/*
+    Chcemy wyznaczyc numer wiersza o najwiekszej sredniej arytmetycznej elementow
+    oraz ta srednia.
+*/
 
 const rowAvg = (numbers) => numbers.reduce((x, y) => x + y) / numbers.length;
 
